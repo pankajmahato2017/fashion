@@ -1,0 +1,384 @@
+/*main{
+
+	height: 1500px;
+	width: 100%;
+	border:5px solid red;
+}*/
+
+.navbar_div {
+	background-color: red;
+}
+.header{
+	height: 350px;
+	width: 100%;
+	background-repeat: no-repeat; 
+}
+.color{
+	
+	height: 200px;
+	margin-top: 40px;
+}
+.shirtcolor{
+	margin-top: 40px;
+	height: 200px
+}
+.border{
+	border-bottom: 5px solid #333;
+	margin-top: 24.4%;
+}
+.para{
+	text-align: center;
+	font-size: 25px;
+	font-style: bold;
+	margin-top:0px auto;
+}
+.name{
+	margin-top: 104.5px;
+}
+.img{
+	border-radius: 100px;
+	height: 139px;
+	width: 86%;
+	margin-top: 12px;
+}
+.ARRIVALS{
+	height: 240px;
+	margin-top: 40px;
+	
+}
+.newarivel{
+	
+}
+
+.ARRIVALS img{
+	height: 237px;
+	width: 190px;
+	position: relative;
+}
+.new{
+	height: 38px;
+	border-radius: 20px;
+	width: 21%;
+	position: absolute;
+	margin-top: -224px;
+	background: rgb(228,9,127);
+	color: white;
+	font-size: 20px;
+	padding: 5px;
+}
+.poster{
+	height: 520px;
+	margin-top: 40px;
+}
+.start{
+	width: 100%;
+}
+.secondposter{
+	height: 500px;
+	margin-top: 40px;
+	background: url(../img/about-bg.jpg);
+	color: #fff;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #999;
+}
+.insertimg{
+height: 500px;
+padding: 50px;
+}
+.posterpara{
+height: 500px;
+padding: 50px;
+font-size: 15px;
+}
+.SIGNATURE{
+	height: 200px;
+	margin-top: 40px;
+}
+.SIGNATUREimg{
+	width: 100%;
+	height: 200px;
+
+}
+.shadow:hover{
+	box-shadow: 2px 3px 4px grey;
+}
+.fonts{
+	height: 150px;
+	margin-top: 40px;
+	background: rgb(235,235,235);
+}
+.designers{
+	margin-top: 50px;
+	height: 700px;
+	background: url(../img/bg_1.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.designers h1{
+	color: #FFF;
+}
+.designers span{
+	color: red;
+	font-size: 50px;
+}
+.span{
+	color: red;
+	font-size: 40px;
+}
+.product{
+	font-size: 40px;
+	color: white;
+}
+.productposter{
+	height: 178px;
+	margin-top: 60px;
+	position: relative;
+}
+.product-_hading{
+	width: 70%;
+	height: 34px;
+	border: 1px solid red;
+	position: absolute;
+	margin-top: -53px;
+	margin-left: 22px;
+	color: white;
+	text-align: center;
+
+}
+.FOCUS{
+	height: 230px;
+	margin-top: 40px;
+}
+.FOCUSimg{
+	height: 205px;
+}
+.shope{
+	height: 250px;
+	margin-top: 40px;
+}
+.storeimg{
+	height: 200px;
+	box-shadow: 2px 3px 4px grey;
+	height: 200px;
+	box-shadow: 2px 3px 4px grey;
+	margin: auto;
+	display: block;
+	border: 8px solid #CCCCCC;
+	border-radius: 30px;
+}
+.paragara{
+	border-bottom:2px solid rgb(228,9,127);
+	margin-top: 50px;
+	}
+.fishionword{
+	font-size: 36px;
+	text-align: center;
+	font-family: Ravie;
+	color: #989796;
+}
+.banners{
+	background: url(../img/bg_2.png);
+	height: 300px;
+	color: #fff;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+.banners{
+	 color: white;
+	font-size: 20px;
+	margin-top: 40px
+
+}
+.doyou{
+	margin-top: 75px;
+}
+.secondbaners{
+	border: 1px solid red;
+	background: url(../img/bg_contacts.jpg);
+	max-width: 100%;
+	min-height: 800px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+	.first-header{
+		background: rgb(53,47,47);
+		color: #FFF;
+		height: 50px;
+	}
+	.first-header ul{
+		margin-right: 80px;
+		margin-top: 20px;
+	}
+	.first-header ul li{
+		display: inline-block;
+		margin-left: 10px;
+	}
+	.second-headre{
+		background: rgb(235,235,235);
+		color: black;
+		padding: 5px 0;
+		height: 105px;
+	}
+	.icons ul{
+		list-style: none;
+		margin-left: 50px;
+		color: #5cb85c;
+		font-size: 35px;
+	}
+	.icons li{
+		display: inline-block;
+	}
+	.search ul{
+		list-style: none;
+	}
+	.search li{
+		display: inline-block;
+	}
+	.right{
+		margin-left: 50px;
+	}
+	.bag{
+		font-size: 55px !important;;
+		color: #5cb85c;
+		margin-top: 14px;
+	}
+	.bag ul{
+		font-size: 50px;
+	}
+	.text{
+		color: black;
+		margin-left: 200px;
+		margin-top: 38px;
+	}
+	.text ul{
+		list-style: none;
+	}
+	.text li:hover
+	{
+		color:#ff5100;
+	}
+	.text li{
+		display: inline-block;
+		margin-left: 25px;
+		cursor: pointer;
+	}
+	.search-bar{
+		height: 32px;
+		margin-top: 37px;
+	}
+	.search-bar{
+		margin-top: 35px;
+	}
+	.btn-but{
+		margin-top: -32px;
+		margin-left: -38px;
+		height: 32px;
+		width: 59%;
+	}
+	.next-button{
+		margin-top: 260px;
+		font-size: 30px !important;
+	}
+	.singup-div{
+		height: 550px;
+		margin-top: 266px;
+	}
+	.text-area{
+		height: auto;
+		margin-top: 20px;
+	}
+	.custom-enqury{
+		height: 45px;
+		width: 100%;
+		font-size: 20px;
+		border-radius: 5px;
+		background: rgba(0,0,0,0.3);
+		margin-top: 20px;
+		color: white;
+		padding: 5px;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px ;
+	}
+	.custom-enqury_text{;
+		height: 150px;
+		width: 100%;
+		font-size: 20px;
+		border-radius: 5px;
+		background: #0000ff1a;
+		margin-top: 20px;
+		color: white;
+		padding: 5px;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px ;	
+	}
+	.button{
+		border: 1px solid rgb(173,173,173);
+		height: 50px;
+		width: 20%;
+		margin-top: 15px;
+		background: rgb(32,152,209);
+
+	}
+	.contect22{
+		height: 430px;
+		margin-top: 20px;
+		margin-left: 52px;
+		background: rgba(0,0,0,0.3);
+	}
+	.subscribe-div{
+		height: 200px;
+		border: 1px solid black;
+		background: rgb(96,96,96);
+		font-size: 30px;
+	}
+	.subscribe-div h1{
+		color: white;
+		text-align: center;
+	}
+	.subscribe-div h6{
+		font-size: 14px;
+		color: #fff;
+		text-align: center;
+	}
+	.subscribe-div input{
+		height: 40px;
+		margin-left: 40px;
+		width: 85%;
+		margin-left: 102px;
+		margin-top: 20px;
+		background: rgb(96,96,96);
+		font-size: 18px;
+		padding: 10px;
+	}
+	.product-catogre h4{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	 .about h4{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.contect-us h4{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.final-div{
+		height: 40px;
+		border: 1px solid black;
+		background: rgb(96,96,96);
+	}
+	.final-div h5{
+		color: white;
+		text-align: center;
+	}
+	.final-div span{
+		color:black;
+	}
